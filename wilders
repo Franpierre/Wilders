@@ -1,0 +1,5 @@
+const chalk = require('chalk');
+console.log(chalk.blue('Pablo!'));
+console.log(chalk.white('Victor!'));
+console.log(chalk.green('Pascal!'));
+console.log(chalk.red('François!'));
